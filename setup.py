@@ -2,8 +2,8 @@ from setuptools import setup
 
 setup(
     name='DGM',
-    author='Luca Cosmo et al.'
-    url='https://github.com/lcosmo/DGM_pytorch'
+    author='Luca Cosmo et al.',
+    url='https://github.com/lcosmo/DGM_pytorch',
     install_requires=[
         'pytorch',
         'torchaudio',
