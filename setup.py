@@ -4,7 +4,7 @@ setup(
     name='DGM',
     author='Luca Cosmo et al.',
     url='https://github.com/lcosmo/DGM_pytorch',
-    packages=['DGMlib']
+    packages=['DGMlib'],
     install_requires=[
         'pytorch',
         'torchaudio',
