@@ -6,7 +6,7 @@ setup(
     url='https://github.com/lcosmo/DGM_pytorch',
     packages=['DGMlib'],
     install_requires=[
-        'pytorch',
+        'torch',
         'torchaudio',
         'torchvision',
         'pytorch_lightning',
